@@ -1,0 +1,7 @@
+indexes:
+
+- kind: Responsies
+  properties:
+  - name: "client"
+    direction: asc
+
